@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="app">
+<head>
+    <title>{OpenSpace} - AngularJS</title>
+</head>
+<body ng-controller="todoController">
+    <input type="hidden" ng-model="Todo.Id" />
+    <input type="text" ng-model="Todo.Nome" />
+    <button type="button" ng-click="salvar()">Ok</button>
+    <hr />
+    <table>
+        <tr ng-repeat="todo in Todos">
+            <td>{{todo.Nome}}</td>
+            <td><button type="button" ng-click="atualizar($index)">Atualizar</button></td>
+            <td><button type="button" ng-click="apagar($index)">Delete</button></td>
+        </tr>
+    </table>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+</body>
+</html>

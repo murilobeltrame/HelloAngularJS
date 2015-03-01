@@ -1,0 +1,5 @@
+c:\users\murilo\documents\visual studio 2013\Projects\HelloAngularJS\HelloAngularJS.UI\bin\HelloAngularJS.UI.dll.config
+c:\users\murilo\documents\visual studio 2013\Projects\HelloAngularJS\HelloAngularJS.UI\bin\HelloAngularJS.UI.dll
+c:\users\murilo\documents\visual studio 2013\Projects\HelloAngularJS\HelloAngularJS.UI\bin\HelloAngularJS.UI.pdb
+c:\users\murilo\documents\visual studio 2013\Projects\HelloAngularJS\HelloAngularJS.UI\obj\Debug\HelloAngularJS.UI.dll
+c:\users\murilo\documents\visual studio 2013\Projects\HelloAngularJS\HelloAngularJS.UI\obj\Debug\HelloAngularJS.UI.pdb
